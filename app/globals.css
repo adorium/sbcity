@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    @apply border-stroke;
+  }
+  
+  body {
+    @apply bg-surface-bg text-text-main;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-display;
+  }
+
+  /* 네비게이션 링크 기본 스타일 */
+  header nav a {
+    display: inline-block;
+    line-height: 1.5;
+  }
+}
+
