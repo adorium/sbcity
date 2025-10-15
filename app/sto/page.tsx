@@ -19,7 +19,7 @@ export default function STOPage() {
             <div className="flex h-10 w-10 items-center justify-center rounded-xl bg-brand-primary text-white">
               <Building2Icon className="h-5 w-5" />
             </div>
-            <span className="font-bold tracking-tight text-lg leading-tight">SBCity Platform</span>
+            <span className="font-bold tracking-tight text-lg leading-tight">SmartBioCity</span>
           </a>
           <nav className="hidden md:flex items-center gap-8">
             <a 
@@ -143,7 +143,7 @@ export default function STOPage() {
             </CardHeader>
             <CardContent className="pb-12">
               <p className="text-text-muted mb-6">
-                SBCity Platform의 STO 서비스는 현재 개발 및 금융당국 승인 절차를 진행 중입니다.
+                SmartBioCity의 STO 서비스는 현재 개발 및 금융당국 승인 절차를 진행 중입니다.
                 출시 소식을 가장 먼저 받아보시려면 아래 버튼을 눌러 알림을 신청해주세요.
               </p>
               <Button className="px-8 py-6">출시 알림 신청</Button>
@@ -160,10 +160,10 @@ export default function STOPage() {
               <div className="flex h-9 w-9 items-center justify-center rounded-xl bg-brand-primary text-white">
                 <Building2Icon className="h-5 w-5" />
               </div>
-              <span className="font-bold tracking-tight text-lg">SBCity Platform</span>
+              <span className="font-bold tracking-tight text-lg">SmartBioCity</span>
             </div>
             <p className="text-sm text-text-muted">
-              © {new Date().getFullYear()} SBCity. All rights reserved.
+              © {new Date().getFullYear()} SmartBioCity. All rights reserved.
             </p>
           </div>
         </Container>

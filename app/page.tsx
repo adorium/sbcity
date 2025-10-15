@@ -307,7 +307,7 @@ export default function LandingPage() {
             </ul>
           </div>
           <div>
-            <h2 className="text-3xl font-bold mb-4">SBCity의 솔루션</h2>
+            <h2 className="text-3xl font-bold mb-4">SmartBioCity의 솔루션</h2>
             <p className="text-text-muted leading-relaxed mb-4">
               단일 플랫폼에서 프로젝트 기획·투자·운영을 통합 관리하고, 투자자와 시행사 간 실시간 투명한 정보 공유를 제공합니다.
             </p>
@@ -542,7 +542,7 @@ export default function LandingPage() {
           <div className="rounded-3xl border border-stroke bg-gradient-to-br from-white to-surface-bg p-8 md:p-12 shadow-sm text-center">
             <h3 className="text-2xl md:text-3xl font-bold">지금 바로 시작하세요</h3>
             <p className="mt-3 text-text-muted max-w-2xl mx-auto">
-              복잡한 도시개발 프로젝트, SBCity 플랫폼으로 간편하게 관리하세요. 
+              복잡한 도시개발 프로젝트, SmartBioCity 플랫폼으로 간편하게 관리하세요. 
               투자자와 시행사 모두에게 투명하고 효율적인 경험을 제공합니다.
             </p>
             <div className="mt-8 flex flex-wrap items-center justify-center gap-3">
@@ -615,7 +615,7 @@ export default function LandingPage() {
               <div className="text-28">헤드라인 3 — Project Planning</div>
               <div className="text-22">헤드라인 4 — 투명한 파이낸싱</div>
               <div className="text-18">본문 Large — 주거·업무·복합 단지 개발의 모든 것</div>
-              <div className="text-16">본문 Medium — SBCity 플랫폼으로 시작하세요</div>
+              <div className="text-16">본문 Medium — SmartBioCity 플랫폼으로 시작하세요</div>
               <div className="text-14 text-text-muted">캡션 — 실시간 프로젝트 현황을 확인하세요</div>
             </div>
           </div>
@@ -707,7 +707,7 @@ export default function LandingPage() {
           <Divider />
           <div className="pt-8 flex flex-col md:flex-row items-center justify-between gap-4">
             <p className="text-sm text-text-muted">
-              © {new Date().getFullYear()} SBCity. All rights reserved.
+              © {new Date().getFullYear()} SmartBioCity. All rights reserved.
             </p>
             <div className="flex items-center gap-6 text-sm">
               <a href="#" className="text-text-muted hover:text-text-main">개인정보처리방침</a>

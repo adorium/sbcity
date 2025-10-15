@@ -1,10 +1,10 @@
-# SBCity Platform
+# SmartBioCity Platform
 
 도시개발 프로젝트 기획 및 투명한 파이낸싱 플랫폼
 
 ## 🏗️ 프로젝트 소개
 
-SBCity는 주거·업무·복합 단지 개발 시 프로젝트 기획부터 투자자-시행사 간 투명한 파이낸싱까지 모든 프로세스를 하나의 플랫폼에서 관리할 수 있는 온라인 솔루션입니다.
+SmartBioCity는 주거·업무·복합 단지 개발 시 프로젝트 기획부터 투자자-시행사 간 투명한 파이낸싱까지 모든 프로세스를 하나의 플랫폼에서 관리할 수 있는 온라인 솔루션입니다.
 
 ### 주요 기능
 
@@ -156,7 +156,7 @@ import { Building2Icon, CheckCircle2Icon } from "@/components/icons";
 
 ## 📝 라이선스
 
-© 2025 SBCity. All rights reserved.
+© 2025 SmartBioCity. All rights reserved.
 
 ## 📧 문의
 

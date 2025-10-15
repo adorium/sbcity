@@ -34,7 +34,7 @@
 ```jsx
 <img 
   src="/images/hero/hero-background.webp" 
-  alt="SBCity Platform" 
+  alt="SmartBioCity Platform" 
   className="w-full h-full object-cover"
 />
 ```
@@ -45,7 +45,7 @@ import Image from 'next/image';
 
 <Image 
   src="/images/hero/hero-background.webp" 
-  alt="SBCity Platform"
+  alt="SmartBioCity Platform"
   fill
   className="object-cover"
   priority
@@ -105,7 +105,7 @@ jpegoptim --max=85 input.jpg
   />
   <img 
     src="/images/hero/hero-background-desktop.webp" 
-    alt="SBCity Platform"
+    alt="SmartBioCity Platform"
     className="w-full h-full object-cover"
   />
 </picture>
@@ -144,7 +144,7 @@ module.exports = {
 ```jsx
 <Image 
   src="/images/hero/hero-background.webp"
-  alt="SBCity Platform 도시개발 프로젝트 대시보드"
+  alt="SmartBioCity Platform 도시개발 프로젝트 대시보드"
   fill
   className="object-cover"
   priority
